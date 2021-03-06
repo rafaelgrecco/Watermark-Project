@@ -20,4 +20,4 @@ Electrical Engineering student and technology enthusiast with projects in the fi
 * **Detecção de Pneumonia com Deep Learning:** http://bit.ly/2ZOxRBl
 * **Previsão de Demanda com Prophet - Time Series:** http://bit.ly/2ZOz7EB
 * **Streamlit Aplicado ao Dataset do UBER:** http://bit.ly/3pTSHKi
-* **add-Watermark Project:** http://bit.ly/3uxIDdu
+* **Add-Watermark Project:** http://bit.ly/3uxIDdu
